@@ -19,17 +19,20 @@ This Streamlit application allows users to upload multiple images and convert th
 **Clone this repository:**
 ```bash
 git clone https://github.com/Rinkal-27/Image_to_PencilSketch.git
-cd image_to_PencilSketch```
+cd image_to_PencilSketch
+```
 
 **Install dependencies:**
-
+```bash
 pip install -r requirements.txt
+```
 
 **Running the Application**
 
 Execute the following command in your terminal:
-
+```bash
 streamlit run app.py
+```
 
 This will launch the application in your default web browser.
 
