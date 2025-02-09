@@ -18,7 +18,7 @@ This Streamlit application allows users to upload multiple images and convert th
 
 **Clone this repository:**
 
-git clone https://github.com/yourusername/pencil-sketch-app.git
+git clone https://github.com/Rinkal-27/Image_to_PencilSketch.git
 
 cd pencil-sketch-app
 
